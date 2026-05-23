@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+
+
+[tool.setuptools]
+packages = ["mazegen"]

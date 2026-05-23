@@ -1,0 +1,9 @@
+# A-Maze-ing configuration file — auto-saved
+
+WIDTH       =             18
+HEIGHT      = 15
+ENTRY       = 0,0
+EXIT        = 17,14
+OUTPUT_FILE = maze.txt
+PERFECT     = true
+SEED        = 42
